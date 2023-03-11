@@ -1,4 +1,4 @@
-This was a group project with two other other class mates.
+This was a group project with two other team members.
 
 
 ## Lahman Baseball Database Exercise
